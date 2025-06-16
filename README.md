@@ -1,24 +1,38 @@
-# Tic-Tac-Toe-NoteBook
-Tic-Tac-Toe Notebook is a simple Android Game, made in android studio, using Java as the main language. The game has 2 player mode and single player mode where an AI made using a simple minimax algorithm compitite with the human player. And it has difficulty levels, with a decent UI. It took me a bit more than 30 hours to make this game, lerning minimax and some simple android featurs included. You can find the game on playstore here... 
+## Tic-Tac-Toe Notebook
 
-Here is the link to the game on playstore...
-https://play.google.com/store/apps/details?id=com.blogspot.sam4rth.tictactoenotebook
+**Tic-Tac-Toe Notebook** is a simple Android game built using **Java** in **Android Studio**. It features:
 
-You are free to do anything with this code... Take inspirations and make your own Tic Tac Toe game, the UI is not that good but go on fix it and make it better in your one!!!
-If you are starting android development this game will teach you a lot!
+* Two-player mode
+* Single-player mode with an AI opponent based on the **Minimax algorithm**
+* Adjustable difficulty levels
+* A functional, beginner-friendly UI
 
-Thankyou, if you have something to say contact me!
+This project took me a bit over 30 hours, during which I learned the **Minimax algorithm** and several core Android development concepts.
 
-Github            : sam4rth
+👉 [**Download it on the Play Store**](https://play.google.com/store/apps/details?id=com.blogspot.sam4rth.tictactoenotebook)
 
-Stalkoverflow     : sam4rth
+---
 
-Instagram         : sam4rth_
+## What You Can Do with This
 
-Twitter           : sam4rth_
+Feel free to:
 
-Email             : samsri987@gmail.com
+* Fork it, improve the UI, and make your own version
+* Use it as a starting point for your Android development journey
+* Study the Minimax implementation for a simple game AI
 
-Discord           : SAM4RTH#2452
+While the UI isn't the best, the logic is solid, and there's plenty of room to expand!
 
-Blog              : https://sam4rth.blogspot.com
+---
+
+## Contact Me
+
+If you have feedback, questions, or just want to say hi, feel free to reach out:
+
+* **GitHub**: [sam4rth](https://github.com/sam4rth)
+* **Stack Overflow**: [sam4rth](https://stackoverflow.com/users/16070793/sam4rth)
+* **Instagram**: [@sam4rth\_](https://instagram.com/sam4rth_)
+* **Twitter**: [@sam4rth\_](https://twitter.com/sam4rth_)
+* **Email**: [samsri987@gmail.com](mailto:samsri987@gmail.com)
+* **Discord**: `SAM4RTH#2452`
+* **Blog**: [sam4rth.blogspot.com](https://sam4rth.blogspot.com)
